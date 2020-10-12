@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import UrlForm from './components/UrlForm';
 import UrlResult from './components/UrlResult';
 import './App.css';
+import './bootstrap.css';
 
 function App() {
   const [shortURL, setShortURL] = useState("");
