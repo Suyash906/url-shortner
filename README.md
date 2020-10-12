@@ -1,6 +1,8 @@
 # url-shortner
 MERN | Get Short URL for a Long URL
 
+![alt text](https://github.com/Suyash906/url-shortner/blob/main/screenshots/url-shortner.png)
+
 ## Tech Spec
 - Backend - Node.js
 - Frontend - React.js
